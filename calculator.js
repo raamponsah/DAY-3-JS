@@ -1,7 +1,7 @@
 // JS ASSIGNMENT
 // Create a calcultor that allows
-// the user to compute using / + - *
+// the user to compute using / + - * (operands)
 // Upon running the program
 // the user is to be prompted to enter his or her values
 // after which he or she is to enter the operand
-// then the computed value will display in the console.
+// then the computed value will display in the console and also alerted
